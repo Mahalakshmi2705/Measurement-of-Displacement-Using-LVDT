@@ -33,14 +33,23 @@ Supply Frequency :
 Vout=fIp(4πNpNsµ0bx/3mlog(ro/ri))(1-(x2/2b2))
 Where,
 f =supply frequency (user selectable)
+
 Ip=primary current = Vin/R
+
 Where Vin (Vrms) is user selectable and R is the coil resistance ( 10 K Ohm)
+
 Np=number of primary turns (user selectable)
+
 Ns=number of secondary turns ( half of primary turns)
+
 ro/ri=Ratio of outer and inner radii of the coil system ( = 2)
+
 x=displacement of the core form null (from actual core postion)
+
 µ0=permeability of space (4π10^-7h/m)
+
 b = length of primary winding (= 20mm)
+
 m = length of secondary winding (= 10 mm)
 
 
