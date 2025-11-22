@@ -23,7 +23,7 @@ The Supply Voltage range is 5V to 15V
 The Supply Frequency range is 1KHz to 10KHz
 For simulation purpuse ,the Supply Voltage is restricted to 10V and Supply Frequency is restricted to 5 KHz
 
-## Measuremnt:
+## Measurement:
 Number of Turns : 
 Supply Voltage :
 Supply Frequency :
