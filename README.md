@@ -55,17 +55,13 @@ m = length of secondary winding (= 10 mm)
 
 ## Output waveforms:
 
-<img width="740" height="570" alt="lvdt" src="https://github.com/user-attachments/assets/862b3885-1817-4e09-b6d9-4374abb1b0fa" />
 
-## Result: 
-Thus the Measurement of Displacement using LVDT has been measured.
+<img width="1313" height="768" alt="image" src="https://github.com/user-attachments/assets/891d1b2a-b2e5-4ef1-939c-6d3286844dc1" />
 
 
 
 
+## Result:
 
 
-
-
-
-
+Thus Measurement of Displacement using LVDT is Verified.
